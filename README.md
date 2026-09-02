@@ -103,6 +103,15 @@ identified by this screen (the sole miss being EbpA, a known profile-model
 limitation for pilus-type sorting signals) and rejected all 18 chance motif
 matches. Full results are in `data/supp_table_cwpred_crosstab.csv`.
 
+## Development note
+
+This script was drafted with AI assistance (Biomni, Phylo) under the authors'
+scientific direction, implementing the published tripartite sorting-signal
+criteria (Boekhorst et al., 2005). The authors independently executed the
+code and verified that it reproduces the reported results (2,583 proteins
+screened; 165 / 56 / 36 funnel; all five positive-control adhesins correctly
+identified).
+
 ## References
 
 - Boekhorst J, de Been MW, Kleerebezem M, Siezen RJ. 2005. Predicting the
