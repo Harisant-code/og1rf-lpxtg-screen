@@ -1,0 +1,23 @@
+locus_tag,old_locus_tag,gene_name,product,length,cwpred_motif,cwpred_reliability,signalp6,sec_spi,rule_based_verdict,logFC,FDR
+OG1RF_RS00285,OG1RF_10056,,LPXTG cell wall anchor domain-containing protein,1329,LPKTGT,[1294-1299],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),0.431186517375438,0.334516283090573
+OG1RF_RS00420,OG1RF_10084,fss1,fibrinogen-binding MSCRAMM adhesin Fss1,2032,LPKTNT,[2000-2005],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),0.191845741416997,0.49611458432454
+OG1RF_RS00440,OG1RF_10088,,LPXTG cell wall anchor domain-containing protein,1025,FPKTGE,[993-998],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),0.0652256116923993,0.855163916604767
+OG1RF_RS02570,OG1RF_10485,,LPXTG cell wall anchor domain-containing protein,112,LPKTGE,[76-81],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-0.259666500350326,0.626189616696156
+OG1RF_RS02685,OG1RF_10508,,VWA domain-containing protein,1116,LPMTNT,[1081-1086],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),0.165522290660544,0.763681374189014
+OG1RF_RS04555,OG1RF_10870,ebpB,endocarditis and biofilm-associated pilus minor subunit EbpB,476,LPKTNE,[439-444],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),0.0656024243759584,0.787408730138095
+OG1RF_RS05390,OG1RF_11037,,LPXTG cell wall anchor domain-containing protein,628,LPKTGE,[597-602],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-0.014652333609758,0.956534826590493
+OG1RF_RS10505,OG1RF_12054,,LPXTG cell wall anchor domain-containing protein,122,LPRTGT,[89-94],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-1.05686256383328,0.467739259242039
+OG1RF_RS11530,OG1RF_12251,,LPXTG cell wall anchor domain-containing protein,122,LPSTGE,[85-90],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-1.54305628555983,0.0194553333062502
+OG1RF_RS12020,OG1RF_12346,,LPXTG cell wall anchor domain-containing protein,120,LPRTGS,[85-90],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-0.51120415565732,0.554310064968218
+OG1RF_RS12780,OG1RF_12506,,LPXTG cell wall anchor domain-containing protein,120,LPRTGS,[85-90],Signal Peptide (Sec/SPI),0.999,SP+ (SignalP 6.0 Sec/SPI),-0.449899552696127,0.415516249350701
+OG1RF_RS13215,OG1RF_11764,,DUF11 domain-containing protein,1898,LPKTGE,[1862-1867],Signal Peptide (Sec/SPI),0.991,SP+ (SignalP 6.0 Sec/SPI),2.0987468664227,0.0071706730861438
+OG1RF_RS04560,OG1RF_10871,ebpC,endocarditis and biofilm-associated pilus major subunit EbpC,627,LPSTGG,[593-598],Signal Peptide (Sec/SPI),0.881,SP+ (SignalP 6.0 Sec/SPI),0.0260697587957361,0.928258829884396
+OG1RF_RS11790,OG1RF_12303,,LPXTG cell wall anchor domain-containing protein,1230,LPSTGE,[1196-1201],Signal Peptide (Sec/SPI),0.833,SP+ (SignalP 6.0 Sec/SPI),0.222267268791399,0.425075886321688
+OG1RF_RS04595,OG1RF_10878,ace,collagen-binding MSCRAMM adhesin Ace,674,LPKTGT,[640-645],Signal Peptide (Sec/SPI),0.832,SP+ (SignalP 6.0 Sec/SPI),1.73380066892378,0.0017924194139052
+OG1RF_RS07885,OG1RF_11536,,hypothetical protein,119,LPKTNE,[84-89],Signal Peptide (Sec/SPI),0.999,not in rule-based set,-0.393821446965502,0.632569082982073
+OG1RF_RS09845,OG1RF_11924,,DUF5011 domain-containing protein,1435,YPKTGE,[1401-1406],Signal Peptide (Sec/SPI),0.999,not in rule-based set,-0.187628715999835,0.152164866319373
+OG1RF_RS07860,OG1RF_11531,,DUF5110 domain-containing protein,1866,LPKANE,[1830-1835],Signal Peptide (Sec/SPI),0.915,not in rule-based set,0.386177320322745,0.632286184825196
+OG1RF_RS12545,,,LPXTG cell wall anchor domain-containing protein,129,LPATGT,[84-89],Signal Peptide (Sec/SPI),0.666,not in rule-based set,-0.0661790528234858,0.824121071079976
+OG1RF_RS03960,OG1RF_10766,,6-aminohexanoate hydrolase,759,LPKAGA,[726-731],Other,0.0,not in rule-based set,1.18079655330409,0.00231406224524
+OG1RF_RS13100,OG1RF_12558,,cell wall surface anchor protein,1654,LPSTGE,[1619-1624],Other,0.195,unresolved (no SP),0.782098308712062,0.105549425115961
+OG1RF_RS04260,OG1RF_10811,,LPXTG cell wall anchor domain-containing protein,1408,FPNTGE,[1373-1378],Other,0.0,unresolved (no SP),0.285606802315152,0.181879299425594
